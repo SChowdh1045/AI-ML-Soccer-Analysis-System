@@ -1,4 +1,5 @@
-## Download The Model (YOLOv5):  
+## Download The Model (YOLOv5): 
+Download this model and create a new directory "models" in the repo and add this model inside of the folder:  
 https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view  
 
 ## Requirements  
