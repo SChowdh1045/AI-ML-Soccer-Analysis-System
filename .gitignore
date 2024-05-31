@@ -1,0 +1,7 @@
+new_env/
+training/
+runs/
+__pycache__/
+models/*
+yolov8x.pt
+output_videos/output_video.avi
